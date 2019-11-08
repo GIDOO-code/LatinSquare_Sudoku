@@ -10,6 +10,7 @@ using GNPZ_sdk;
 
 namespace LS4Sudoku{
     public partial class MainWindow : Window {
+        static public  double pixelsPerDip;
         private int[,] LS=new int[9,9];
 
         public MainWindow() {
@@ -17,6 +18,7 @@ namespace LS4Sudoku{
          
 //            LSG.GeneratePara( ref LS, TopParaX, LftParaX );
             SetInfo();   
+            pixelsPerDip = VisualTreeHelper.GetDpi(this).PixelsPerDip;
         }
         
         private void btnEnd_Click( object sender, RoutedEventArgs e ) {
@@ -37,6 +39,7 @@ namespace LS4Sudoku{
             Brush brBack=Brushes.LightGray;
             
             var drawVisual = new DrawingVisual();
+            var pixelsPerDip = MainWindow.pixelsPerDip; 
             using( DrawingContext DC=drawVisual.RenderOpen() ){
                 #region Draw numbers on board
                 for( int rc=0; rc<81; rc++ ){   
@@ -50,7 +53,7 @@ namespace LS4Sudoku{
                     if( LS[r,c]>0 ){
                         string st=LS[r,c].ToString().PadLeft(2);
                         FormattedText FT = new FormattedText(st, CulInfoJpn, 
-                            FlowDirection.LeftToRight, new Typeface("Verdana"), 28, Brushes.Blue );                
+                            FlowDirection.LeftToRight, new Typeface("Verdana"), 28, Brushes.Blue, pixelsPerDip );                
                         DC.DrawText( FT, pt );
                     }
                 }
