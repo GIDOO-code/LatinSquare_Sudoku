@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/GIDOO-code/LatinSquare_Sudoku/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GIDOO-code/LatinSquare_Sudoku/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Latin squares is a Matrix with numbers 1 to n arranged vertically and horizontally without overlapping.
+Sudoku's solution is that it divides the 9×9 Latin square into 3×3 blocks and places numbers 1 to 9 on the block without overlapping.
+There is 5.525×10^27 for the 9×9 Latin square(5524751496156892842531225600). 
+The 9×9 Latin square with block constraint(Sudoku's solution) is 6.671×10^21 and
+about 1/1,000,000 (6670903752021072936960).
+Here, counting is not an objective, so you should remember only a lot of things 
+i make a simple application to generate Latin square. Try running LS4Sudoku.
