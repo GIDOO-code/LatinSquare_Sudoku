@@ -34,8 +34,8 @@
 		The 9×9 Latin square with block constraint(Sudoku's solution) is 6.671×10<sup>21</sup> and
 		about 1/1,000,000 (6670903752021072936960).<br><br>
 		
-		reference: Frazer Jarvis, June 20, 2005,Enumerating possible Sudoku grids,<br>
-		    http://www.afjarvis.staff.shef.ac.uk/Sudoku/Sudoku.pdf<br><br>
+		reference: Frazer Jarvis, January 25, 2006,Mathematics of Sudoku I,<br>
+			http://www.afjarvis.staff.shef.ac.uk/sudoku/felgenhauer_jarvis_spec1.pdf<br><br>
 		
 		Here, counting is not an objective, so you should remember only a lot of things 
 		(it is difficult if you do not devise some processing on the whole number)<br>
@@ -49,10 +49,9 @@
 		</p>
 			
 		<h3>step 1</h3>
-		<p>i want to eliminate essentially the same Latin Square, so fix the number in block 1 (upper left block).
-		If we convert {a<sub>k </sub> => k} to the whole square when the number of block 1 is {a<sub>k</sub> | k=1-9},
-        the left square It can convert it.
-
+		<p>Eliminate essentially the same Latin square.
+		Convert based on the number of blocks 1 (top left block).<br>
+		If block 1 is {a<sub>k</sub>}, the whole square is converted to {a<sub>k</sub>=>k | k=1-9}.
 		<img src="images/latin/latin1.gif">
 
 		<h3>step 2</h3>
