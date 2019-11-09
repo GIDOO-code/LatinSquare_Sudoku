@@ -5,3 +5,4 @@ The 9×9 Latin square with block constraint(Sudoku's solution) is 6.671×10^21 a
 about 1/1,000,000 (6670903752021072936960).
 Here, counting is not an objective, so you should remember only a lot of things 
 i make a simple application to generate Latin square. Try running LS4Sudoku.
+
