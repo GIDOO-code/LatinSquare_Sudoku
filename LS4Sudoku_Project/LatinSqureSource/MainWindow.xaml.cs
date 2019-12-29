@@ -21,7 +21,7 @@ namespace LS4Sudoku{
             pixelsPerDip = VisualTreeHelper.GetDpi(this).PixelsPerDip;
         }
         
-        private void btnEnd_Click( object sender, RoutedEventArgs e ) {
+        private void btnEnd_Click( object sender, RoutedEventArgs e ){
             this.Close();
         }
         private CultureInfo CulInfoJpn = CultureInfo.GetCultureInfo("ja-JP");
