@@ -11,3 +11,4 @@ E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSo
 E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.csproj.CoreCompileInputs.cache
 E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.exe
 E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.pdb
+E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.csprojAssemblyReference.cache
