@@ -1,0 +1,14 @@
+E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_App\LS4Sudoku.exe.config
+E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_App\LS4Sudoku.exe
+E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_App\LS4Sudoku.pdb
+E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Debug\MainWindow.baml
+E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Debug\MainWindow.g.cs
+E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Debug\App.g.cs
+E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Debug\LS4Sudoku_MarkupCompile.cache
+E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Debug\LS4Sudoku.g.resources
+E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Debug\LatinSquareExer.Properties.Resources.resources
+E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Debug\LS4Sudoku.csproj.GenerateResource.cache
+E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Debug\LS4Sudoku.csproj.CoreCompileInputs.cache
+E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Debug\LS4Sudoku.exe
+E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Debug\LS4Sudoku.pdb
+E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Debug\LS4Sudoku.csprojAssemblyReference.cache

@@ -46,6 +46,21 @@
         <Image x:Name="PB_GBoard" Height="338" Margin="48,1,0,0" Stretch="Fill" 
 			VerticalAlignment="Top" MinWidth="0" MinHeight="0" 
 			DataContext="{Binding}" HorizontalAlignment="Left" Width="338" Grid.Row="1" Grid.RowSpan="11" />
+        <Label x:Name="BoardCol" Content="C1  C2  C3  C4  C5  C6  C7  C8  C9" Margin="50,51,0,0" VerticalAlignment="Top" Foreground="#FFF16D6D" Panel.ZIndex="5" Background="{x:Null}" FontSize="19" Grid.RowSpan="2" HorizontalContentAlignment="Stretch" HorizontalAlignment="Left" VerticalContentAlignment="Stretch" FontFamily="MS Gothic" Width="348" Visibility="{Binding Visibility, ElementName=BoardBlock123}"/>
+        <Label x:Name="BoardRow" Content="R9  R8  R7  R6  R5  R4  R3  R2  R1" HorizontalAlignment="Left" Margin="-127,6,0,0" VerticalAlignment="Top" Foreground="#FFF16D6D" Panel.ZIndex="5" Background="{x:Null}" FontSize="19" Grid.Row="7" Grid.RowSpan="2" RenderTransformOrigin="0.5,0.5" HorizontalContentAlignment="Stretch" FontFamily="MS Gothic" Visibility="{Binding Visibility, ElementName=BoardBlock123}">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label x:Name="BoardBlock123" Content="B1   B2   B3" HorizontalAlignment="Left" Margin="74,7,0,0" VerticalAlignment="Top" Foreground="#FFF16D6D" Panel.ZIndex="5" Background="{x:Null}" FontSize="46" Grid.Row="2" Grid.RowSpan="3" RenderTransformOrigin="0.5,0.5" HorizontalContentAlignment="Stretch" FontFamily="MS Gothic"/>
+        <Label x:Name="BoardBlock456" Content="B4   B5   B6" HorizontalAlignment="Left" Margin="74,20,0,0" VerticalAlignment="Top" Foreground="#FFF16D6D" Panel.ZIndex="5" Background="{x:Null}" FontSize="46" Grid.Row="6" Grid.RowSpan="4" RenderTransformOrigin="0.5,0.5" Width="305" HorizontalContentAlignment="Stretch" FontFamily="MS Gothic" Visibility="{Binding Visibility, ElementName=BoardBlock123}"/>
+        <Label x:Name="BoardBlock789" Content="B7   B8   B9" HorizontalAlignment="Left" Margin="74,8,0,0" VerticalAlignment="Top" Foreground="#FFF16D6D" Panel.ZIndex="5" Background="{x:Null}" FontSize="46" Grid.Row="11" RenderTransformOrigin="0.5,0.5" Width="305" HorizontalContentAlignment="Stretch" FontFamily="MS Gothic" Visibility="{Binding Visibility, ElementName=BoardBlock123}"/>
+        <CheckBox x:Name="Display_RCB" Content="Row / column / block No." HorizontalAlignment="Left" Margin="91,94,0,0" Grid.Row="11" VerticalAlignment="Top" Foreground="White" Checked="Display_RCB_Checked" Unchecked="Display_RCB_Checked"/>
         <Label Content="LatinSquare for SUDOKU" Height="44" HorizontalAlignment="Left" 
 			Margin="10,5,0,0" x:Name="label1" VerticalAlignment="Top" 
 			FontFamily="MS PGothic" FontSize="32" FontWeight="Bold" FontStyle="Italic" Width="365">
