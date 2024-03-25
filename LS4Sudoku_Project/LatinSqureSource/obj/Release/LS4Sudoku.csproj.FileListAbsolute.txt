@@ -1,14 +1,29 @@
-E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_App\LS4Sudoku.exe.config
-E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_App\LS4Sudoku.exe
-E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_App\LS4Sudoku.pdb
-E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Release\MainWindow.baml
-E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Release\MainWindow.g.cs
-E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Release\App.g.cs
-E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku_MarkupCompile.cache
-E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.g.resources
-E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Release\LatinSquareExer.Properties.Resources.resources
-E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.csproj.GenerateResource.cache
-E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.csproj.CoreCompileInputs.cache
-E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.exe
-E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.pdb
-E:\◆◆数独集合体\Git\LatinSquareForSUDOKU\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.csprojAssemblyReference.cache
+E:\◆◆数独集合体\20191107 LS4Sudoku\LS4Sudoku_App\LatinSquareExer.exe.config
+E:\◆◆数独集合体\20191107 LS4Sudoku\LS4Sudoku_App\LatinSquareExer.exe
+E:\◆◆数独集合体\20191107 LS4Sudoku\LS4Sudoku_App\LatinSquareExer.pdb
+E:\◆◆数独集合体\20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.csproj.AssemblyReference.cache
+E:\◆◆数独集合体\20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.csproj.SuggestedBindingRedirects.cache
+E:\◆◆数独集合体\20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\MainWindow.baml
+E:\◆◆数独集合体\20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\MainWindow.g.cs
+E:\◆◆数独集合体\20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\App.g.cs
+E:\◆◆数独集合体\20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LatinSquareExer_MarkupCompile.cache
+E:\◆◆数独集合体\20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LatinSquareExer.g.resources
+E:\◆◆数独集合体\20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LatinSquareExer.Properties.Resources.resources
+E:\◆◆数独集合体\20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.csproj.GenerateResource.cache
+E:\◆◆数独集合体\20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.csproj.CoreCompileInputs.cache
+E:\◆◆数独集合体\20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LatinSquareExer.exe
+E:\◆◆数独集合体\20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LatinSquareExer.pdb
+E:\◆◆数独集合体\■■■20191107 LS4Sudoku\LS4Sudoku_App\LatinSquareExer.exe.config
+E:\◆◆数独集合体\■■■20191107 LS4Sudoku\LS4Sudoku_App\LatinSquareExer.exe
+E:\◆◆数独集合体\■■■20191107 LS4Sudoku\LS4Sudoku_App\LatinSquareExer.pdb
+E:\◆◆数独集合体\■■■20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.csproj.AssemblyReference.cache
+E:\◆◆数独集合体\■■■20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\MainWindow.baml
+E:\◆◆数独集合体\■■■20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\MainWindow.g.cs
+E:\◆◆数独集合体\■■■20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\App.g.cs
+E:\◆◆数独集合体\■■■20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LatinSquareExer_MarkupCompile.cache
+E:\◆◆数独集合体\■■■20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LatinSquareExer.g.resources
+E:\◆◆数独集合体\■■■20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LatinSquareExer.Properties.Resources.resources
+E:\◆◆数独集合体\■■■20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.csproj.GenerateResource.cache
+E:\◆◆数独集合体\■■■20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LS4Sudoku.csproj.CoreCompileInputs.cache
+E:\◆◆数独集合体\■■■20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LatinSquareExer.exe
+E:\◆◆数独集合体\■■■20191107 LS4Sudoku\LS4Sudoku_Project\LatinSqureSource\obj\Release\LatinSquareExer.pdb

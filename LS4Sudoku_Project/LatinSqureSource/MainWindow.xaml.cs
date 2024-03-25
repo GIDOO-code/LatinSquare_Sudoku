@@ -10,7 +10,7 @@ using GNPZ_sdk;
 
 namespace LS4Sudoku{
     public partial class MainWindow : Window {
-        static public double pixelsPerDip;
+        static public  double pixelsPerDip;
         private int[,] LS=new int[9,9];
 
         public MainWindow() {
@@ -19,10 +19,9 @@ namespace LS4Sudoku{
 //            LSG.GeneratePara( ref LS, TopParaX, LftParaX );
             SetInfo();   
             pixelsPerDip = VisualTreeHelper.GetDpi(this).PixelsPerDip;
-            BoardBlock123.Visibility = Visibility.Hidden;
         }
         
-        private void btnEnd_Click( object sender, RoutedEventArgs e ){
+        private void btnEnd_Click( object sender, RoutedEventArgs e ) {
             this.Close();
         }
         private CultureInfo CulInfoJpn = CultureInfo.GetCultureInfo("ja-JP");
@@ -252,11 +251,6 @@ namespace LS4Sudoku{
                 }
                 Console.WriteLine(po);
             }
-        }
-
-        private void Display_RCB_Checked(object sender, RoutedEventArgs e){
-            if(BoardBlock123==null) return;
-            BoardBlock123.Visibility = (bool)Display_RCB.IsChecked? Visibility.Visible: Visibility.Hidden;
         }
     }
 }

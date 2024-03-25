@@ -8,8 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("rcbdef_blue.gif")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("rcbdef_red.gif")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("rcbdef_yellow.gif")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("grid.png")]
 
 
